@@ -1,0 +1,13 @@
+{
+  "build" : 21,
+  "channel" : "internal",
+  "minSystemVersion" : "14.0",
+  "notes" : "SC-6 发布链路验证构建：三语界面与真实更新检查。",
+  "packageBytes" : 2841243,
+  "packageSHA256" : "82e12e120e87ee2e53856cc621341fbddea1d9109e3ed801530d7ea3d267fc77",
+  "packageURL" : "https://blacstar7.github.io/sinclean-updates/internal/SinClean-1.0.0-beta.2-b21.zip",
+  "publishedAt" : "2026-10-01T19:58:52Z",
+  "schemaVersion" : 1,
+  "signature" : "4Kj4Ucx4EmVQeQB3DxCoPTBusLIfFdgctIsSbkfNevC0CWtk6qKJFHKEtGecl677gGDc0VnHeS2QJ65/yIdsBA==",
+  "version" : "1.0.0-beta.2"
+}
