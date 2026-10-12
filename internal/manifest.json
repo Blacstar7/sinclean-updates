@@ -1,13 +1,13 @@
 {
-  "build" : 26,
+  "build" : 27,
   "channel" : "internal",
   "minSystemVersion" : "14.0",
   "notes" : "空间分析页焕新：左右分栏整体布局，任何窗口大小都能发起扫描。",
-  "packageBytes" : 3028392,
-  "packageSHA256" : "bd7ee212e604a0f748d2f4dac7c604f760e3adabfa60a01585c3faa90e64d777",
-  "packageURL" : "https://blacstar7.github.io/sinclean-updates/internal/SinClean-1.0.0-beta.2-b26.zip",
-  "publishedAt" : "2026-10-12T13:21:44Z",
+  "packageBytes" : 3030619,
+  "packageSHA256" : "72ffd2a05475cb1e4bc4949558546ebaf176494ecca813451ba8446285fc606d",
+  "packageURL" : "https://blacstar7.github.io/sinclean-updates/internal/SinClean-1.0.0-beta.2-b27.zip",
+  "publishedAt" : "2026-10-12T14:36:26Z",
   "schemaVersion" : 1,
-  "signature" : "WiIn67/ow1S13bveLLC1cEOlOOpsKeKPFqMUsIKphZq+3whs56AR0jrM+YpwTXtOsPcW/XC2nMHgA0v0r9goCA==",
+  "signature" : "QKbf7tSFIweFsdc0E8gI71982p+duhjkMXSwrYKpc8dKzzOQVYXUfZnSO2MfYlyAjTZ9n8pqwPzr4rg7llODBA==",
   "version" : "1.0.0-beta.2"
 }
