@@ -1,13 +1,13 @@
 {
-  "build" : 25,
+  "build" : 26,
   "channel" : "internal",
   "minSystemVersion" : "14.0",
-  "notes" : "SC-6 发布链路验证构建：三语界面与真实更新检查。",
-  "packageBytes" : 3014355,
-  "packageSHA256" : "6ef4164973ee56e63f99c6b2d3834b4e12f53e95d81163ceeb52857e7a885797",
-  "packageURL" : "https://blacstar7.github.io/sinclean-updates/internal/SinClean-1.0.0-beta.2-b25.zip",
-  "publishedAt" : "2026-10-07T13:57:00Z",
+  "notes" : "空间分析页焕新：左右分栏整体布局，任何窗口大小都能发起扫描。",
+  "packageBytes" : 3028392,
+  "packageSHA256" : "bd7ee212e604a0f748d2f4dac7c604f760e3adabfa60a01585c3faa90e64d777",
+  "packageURL" : "https://blacstar7.github.io/sinclean-updates/internal/SinClean-1.0.0-beta.2-b26.zip",
+  "publishedAt" : "2026-10-12T13:21:44Z",
   "schemaVersion" : 1,
-  "signature" : "3D+K+NoQNBHRUiIC16QARlpxI7SUpfaG4M9ZaKP5ujcdCP5/qAUybPbdJiY2wva0hLJFRTF5w3qN4jS6DWhXDA==",
+  "signature" : "WiIn67/ow1S13bveLLC1cEOlOOpsKeKPFqMUsIKphZq+3whs56AR0jrM+YpwTXtOsPcW/XC2nMHgA0v0r9goCA==",
   "version" : "1.0.0-beta.2"
 }
